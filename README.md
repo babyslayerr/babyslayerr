@@ -1,5 +1,5 @@
 Hi there 👋
-<img src="https://simpleicons.org/badge/Naver-#03C75A" />
+<a href="" target="_blank"><img src="https://img.shields.io/badge/naver"/></a>
 
 <!--
 **babyslayerr/babyslayerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
