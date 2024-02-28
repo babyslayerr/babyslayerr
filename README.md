@@ -1,13 +1,14 @@
-<h1>SIMPLE IS THE BEST</h1>
+<center>
+  <h1>SIMPLE IS THE BEST</h1>
 
-IT'S MY BLOG!!!
-
-<a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/NAVER--BLOG-green?logo=Naver&logoColor=#03C75A"/></a>
-
-IT'S MY STAT!!!
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyslayerr&show_icons=true&theme=transparent)
-
+  IT'S MY BLOG!!!
+  
+  <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/NAVER--BLOG-green?logo=Naver&logoColor=#03C75A"/></a>
+  
+  IT'S MY STAT!!!
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyslayerr&show_icons=true&theme=transparent)
+</center>
 <!--
 **babyslayerr/babyslayerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
