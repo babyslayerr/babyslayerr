@@ -1,11 +1,16 @@
 <div align="center">
 <h1>🔭SIMPLE IS THE BEST🌱</h1>
 
-IT'S MY BLOG!!!
+MY BLOG
   
   <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/NAVER--BLOG-green?logo=Naver&logoColor=#03C75A"/></a>
+
+MY SKILL
+
+<a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/Spring--Boot-green?logo=Spring Boot&logoColor=#6DB33F"/></a>
+<a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/Vue-green?logo=Vue.js&logoColor=#4FC08D"/></a>
   
-IT'S MY STAT!!!
+MY STAT
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyslayerr&show_icons=true&theme=transparent)
 
