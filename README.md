@@ -1,10 +1,10 @@
 <h1>SIMPLE IS THE BEST</h1>
 
-ITS MY BLOG!!!
+IT'S MY BLOG!!!
 
 <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/NAVER--BLOG-green?logo=Naver&logoColor=#03C75A"/></a>
 
-ITS MY STAT!!!
+IT'S MY STAT!!!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyslayerr&show_icons=true&theme=transparent)
 
