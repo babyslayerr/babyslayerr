@@ -1,7 +1,6 @@
+<h1>SIMPLE IS THE BEST</h1><
 
-<center><h1>SIMPLE IS THE BEST</h1></center>
-
-  IT'S MY BLOG!!!
+  <center>IT'S MY BLOG!!!</center>
   
   <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/NAVER--BLOG-green?logo=Naver&logoColor=#03C75A"/></a>
   
