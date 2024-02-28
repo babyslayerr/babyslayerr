@@ -13,7 +13,7 @@
   MY STAT
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyslayerr&show_icons=true&theme=transparent)
-  \n
+  <br/>
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdghks619)](https://solved.ac/whdghks619)
 </div>
 <!--
