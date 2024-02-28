@@ -1,4 +1,4 @@
-<div aling="center">
+<div align="center">
 <h1>🔭SIMPLE IS THE BEST🌱</h1>
 
 IT'S MY BLOG!!!
