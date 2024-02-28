@@ -1,19 +1,19 @@
-<div align="center">
-<h1>🔭SIMPLE IS THE BEST🌱</h1>
-
-MY BLOG
+  <div align="center">
+  <h1>🔭SIMPLE IS THE BEST🌱</h1>
   
-  <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/NAVER--BLOG-green?logo=Naver&logoColor=#03C75A"/></a>
-
-MY SKILL
-
-<a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/Spring--Boot-green?logo=Spring Boot&logoColor=#6DB33F"/></a>
-<a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/Vue-green?logo=Vue.js&logoColor=#4FC08D"/></a>
+  MY BLOG
+    
+    <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/NAVER--BLOG-green?logo=Naver&logoColor=#03C75A"/></a>
   
-MY STAT
+  MY SKILL
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyslayerr&show_icons=true&theme=transparent)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdghks619)](https://solved.ac/whdghks619)
+  <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/Spring--Boot-green?logo=Spring Boot&logoColor=#6DB33F"/></a>
+  <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/Vue-green?logo=Vue.js&logoColor=#4FC08D"/></a>
+    
+  MY STAT
+    
+  <div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyslayerr&show_icons=true&theme=transparent)</div>
+  <div>[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdghks619)](https://solved.ac/whdghks619)</div>
 </div>
 <!--
 **babyslayerr/babyslayerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
