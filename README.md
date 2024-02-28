@@ -1,4 +1,4 @@
-<h1>SIMPLE IS THE BEST</h1><
+<h1>SIMPLE IS THE BEST</h1>
 
 IT'S MY BLOG!!!
   
