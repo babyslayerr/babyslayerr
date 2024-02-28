@@ -1,5 +1,5 @@
-<center>
-  <h1>SIMPLE IS THE BEST</h1>
+
+<center><h1>SIMPLE IS THE BEST</h1></center>
 
   IT'S MY BLOG!!!
   
@@ -7,8 +7,7 @@
   
   IT'S MY STAT!!!
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyslayerr&show_icons=true&theme=transparent)
-</center>
+<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyslayerr&show_icons=true&theme=transparent)</center>
 <!--
 **babyslayerr/babyslayerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
