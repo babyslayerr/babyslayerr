@@ -1,12 +1,12 @@
 <h1>SIMPLE IS THE BEST</h1><
 
-  <center>IT'S MY BLOG!!!</center>
+IT'S MY BLOG!!!
   
   <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/NAVER--BLOG-green?logo=Naver&logoColor=#03C75A"/></a>
   
-  IT'S MY STAT!!!
+IT'S MY STAT!!!
   
-<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyslayerr&show_icons=true&theme=transparent)</center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyslayerr&show_icons=true&theme=transparent)
 <!--
 **babyslayerr/babyslayerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
