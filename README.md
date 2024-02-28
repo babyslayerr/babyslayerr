@@ -3,7 +3,7 @@
   
   MY BLOG
     
-    <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/NAVER--BLOG-green?logo=Naver&logoColor=#03C75A"/></a>
+  <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/NAVER--BLOG-green?logo=Naver&logoColor=#03C75A"/></a>
   
   MY SKILL
   
