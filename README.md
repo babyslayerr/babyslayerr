@@ -7,7 +7,7 @@ MY BLOG
 
 MY SKILL
 
-<a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/Spring--Boot-green?logo=Spring Boot&logoColor=#6DB33F"/></a>
+<a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/Spring--Boot-FFFFFF?logo=Spring Boot&logoColor=#6DB33F"/></a>
 <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/Vue-green?logo=Vue.js&logoColor=#4FC08D"/></a>
   
 MY STAT
