@@ -1,5 +1,8 @@
   <div align="center">
   <h1>🔭SIMPLE IS THE BEST🌱</h1>
+
+## Career
+- 한국방송통신대학교 컴퓨터과학과(2023.03 ~ 2025.02)
   
   MY BLOG
     
