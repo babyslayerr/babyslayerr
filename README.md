@@ -1,6 +1,9 @@
   <div align="center">
   <h1>🔭SIMPLE IS THE BEST🌱</h1>
-  
+
+  ## Career
+  - 한국방송통신대학교 컴퓨터과학과(2023.03 ~ 2025.02)
+    
   MY BLOG
     
   <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/NAVER--BLOG-green?logo=Naver&logoColor=#03C75A"/></a>
