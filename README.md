@@ -18,7 +18,7 @@
 <br/>
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdghks619)](https://solved.ac/whdghks619) -->
 
-#### BLOG<a href="https:/
+#### BLOG
 
 <a href="https://velog.io/@babyslayerr" target="_blank"><img src="https://img.shields.io/badge/VELOG-black?logo=VELOG&logoColor=#00FA9A"/></a>
 <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/NAVER--BLOG-black?logo=Naver&logoColor=#03C75A"/></a>
