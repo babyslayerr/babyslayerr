@@ -18,15 +18,7 @@
 <br/>
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdghks619)](https://solved.ac/whdghks619) -->
 
-#### SKILL
-
-##### 😎 주로 사용하는 기술
-
-<a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/Spring--Boot-black?logo=Spring Boot&logoColor=#6DB33F"/></a>
-<a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/Vue-black?logo=Vue.js&logoColor=#4FC08D"/></a>
-  
-
-#### BLOG
+#### BLOG<a href="https:/
 
 <a href="https://velog.io/@babyslayerr" target="_blank"><img src="https://img.shields.io/badge/VELOG-black?logo=VELOG&logoColor=#00FA9A"/></a>
 <a href="https://blog.naver.com/gksqlcxkdns1" target="_blank"><img src="https://img.shields.io/badge/NAVER--BLOG-black?logo=Naver&logoColor=#03C75A"/></a>
